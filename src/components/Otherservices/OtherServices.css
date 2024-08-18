@@ -1,0 +1,23 @@
+.other-service-section {
+    padding: 7em 0;
+    position: relative;
+}
+
+.heading-section .subheading {
+    font-size: 12px;
+    display: block;
+    font-weight: 600;
+    color: #1089ff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+img {
+    width: 40px;
+}
+
+.other-service h3 {
+    font-weight: 300;
+    font-size: 18px;
+    color: #000;
+}

@@ -1,0 +1,86 @@
+.testimony-section {
+    position: relative;
+}
+
+section {
+    padding: 7em 0;
+}
+
+.animate {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.heading-section .subheading {
+    font-size: 12px;
+    display: block;
+    font-weight: 600;
+    color: #1089ff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.testimony-section .carousel-testimony {
+    margin: 0;
+}
+
+.owl-carousel.owl-loaded {
+    display: block;
+}
+
+.owl-carousel {
+    position: relative;
+}
+
+/* .testimony-section .owl-carousel .owl-stage-outer {
+    padding: 20px 0 2em 0;
+    position: relative;
+}
+
+.owl-carousel .owl-stage {
+    position: relative;
+}
+
+.testimony-section .owl-carousel .owl-stage-outer .owl-stage {
+    transition: all;
+    width: 3960px;
+    transform: translate3d(-900px, 0px, 0px);
+}
+
+.owl-stage-outer .owl-stage .owl-item {
+    width: 330px;
+    margin-right: 30px;
+}
+
+.owl-carousel.owl-drag .owl-item {
+    touch-action: pan-y;
+} */
+
+.owl-carousel .item img {
+    max-height: 300px; 
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.owl-carousel .item {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.owl-carousel .item img {
+    height: 80px;
+    width: auto;
+}
+   
+#owl-demo .item{
+    margin: 3px;
+}
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}

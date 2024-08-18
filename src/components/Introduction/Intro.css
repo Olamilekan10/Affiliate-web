@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.no-pt {
+    padding-top: 0 !important;
+}
+
+.no-pb {
+    padding-bottom: 0 !important;
+}
+
+.intro-section {
+    padding:  7em 0;
+    position: relative;
+}
+
+.img {
+    background: url(../../images/intro);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.no-spacing {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+/* .animate {
+    opacity: 0;
+    visibility: hidden;
+} */
+
+.heading-section .subheading {
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-weight: 600;
+    color: #1089ff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.heading-section h2 {
+    font-size: 24px;
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+.greyed {
+    width: 100%;
+    color: grey;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+.consultation {
+    background: #1089FF;
+    color: #fff;
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+.consultation h3 {
+    font-size: 20px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+.consultation a {
+    font-size: 12px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 2px solid rgb(225, 213, 213);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.consultation.consul {
+    background: #006fdc;
+}
+
+.appointment-form .form-group {
+    position: relative;
+    width: 100%;
+    display: block;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.appointment-form .form-control {
+    border: transparent !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+    height: 40px !important;
+    padding-left: 0;
+    padding-right: 0;
+    background: transparent !important;
+    color: rgba(255, 255, 255, 0.9) !important;
+    font-size: 13px;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+option {
+    background-color: #fff;
+    color: #000;
+    font-weight: normal;
+    display: block;
+    padding-block-start: 0px;
+    padding-block-end: 1px;
+    min-block-size: 1.2em;
+    padding-inline: 2px;
+    white-space: nowrap;
+}
+
+.appointment-form .form-group .select-wrapper {
+    position: relative;
+}
+
+.appointment-form .form-group .input-wrapper {
+    position: relative;
+}
+
+.appointment-form .form-group .icon {
+    position: absolute;
+    top: 50% !important;
+    right: 0;
+    font-size: 16px;
+    transform: translateY(-50%);
+}
+
+.appointment-form .form-group .icon span {
+    font-size: 10px;
+    color: white !important;
+}
+
+.bi {
+    display: inline-block;
+}
+
+.appointment-form .form-group .select-wrapper select {
+    appearance: none;
+}
+
+.appointment-form .form-group .btn-appoint {
+    width: 100%;
+    display: block !important;
+    color: #000;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
+
+.appointment-form .form-group .btn-appoint:hover {
+    background: none;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+
+
+
+
+
+
+/* @media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }   
+} */
+
