@@ -151,7 +151,7 @@ const Stories = () => {
                 </div>
                 <div className="col-md-3 d-flex align-items-center">
                     <p className="mb-0">
-                        {/* <button className="btn btn-light px-4 py-3">Free Consultation</button> */}
+                        <button className="btn btn-light px-4 py-3">Free Consultation</button>
                     </p>
                 </div>
               </div>
