@@ -12,5 +12,8 @@ footer {
 }
 
 .footer-section .subscribe-form {
-    
+    border-radius: 4px;
+    background-color: #fff;
+    padding: 0;
+    box-shadow: 0px -12px -21px -15px rgba(0, 0, 0, 0.1);
 }

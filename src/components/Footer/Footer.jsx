@@ -12,7 +12,7 @@ const Footer = () => {
                     <div className="col-10 col-lg-6">
                         <div className="subscribe mb-5">
                             <form action="#" className="subscribe-form">
-                                <div className="form-group-d-flex">
+                                <div className="form-group d-flex">
                                     
                                 </div>
                             </form>
