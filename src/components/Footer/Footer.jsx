@@ -11,6 +11,7 @@ const Footer = () => {
                 <div className="row justify-content-center">
                     
                 </div>
+                {/* second row */}
             </div>
         </footer>
     </>
