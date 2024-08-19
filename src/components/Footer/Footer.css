@@ -1,6 +1,16 @@
 footer {
     padding: 7em 0;
     position: relative;
+}
+
+.footer-section {
     background: #131719;
 }
 
+.footer-section .subscribe {
+    margin-top: -130px;
+}
+
+.footer-section .subscribe-form {
+    
+}
