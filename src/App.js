@@ -1,5 +1,6 @@
 import './App.css';
 import { Carousel } from './components/CarouselSection/Carousel';
+import Footer from './components/Footer/Footer';
 import Intro from './components/Introduction/Intro';
 import NavbarComp from './components/Navbar/NavbarComp';
 import NewsBlogs from './components/News&Blogs/NewsBlogs';
@@ -20,6 +21,7 @@ function App() {
         <Scroll />
         <Stories />
         <NewsBlogs />
+        <Footer />
 
     </div>
   );
