@@ -17,3 +17,7 @@ footer {
     padding: 0;
     box-shadow: 0px -12px -21px -15px rgba(0, 0, 0, 0.1);
 }
+
+.footer-section .subscribe-form .form-group {
+    position: relative;
+}

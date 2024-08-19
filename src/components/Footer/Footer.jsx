@@ -13,7 +13,8 @@ const Footer = () => {
                         <div className="subscribe mb-5">
                             <form action="#" className="subscribe-form">
                                 <div className="form-group d-flex">
-                                    
+                                    <input type="text" className="form-control rounded-left" placeholder="Enter email address" />
+                                    <input type="submit" value="Subscribe" className="form-control submit px-3" placeholder="Enter email address" />
                                 </div>
                             </form>
                         </div>
