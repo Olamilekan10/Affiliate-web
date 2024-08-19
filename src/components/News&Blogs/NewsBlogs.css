@@ -3,10 +3,10 @@
     position: relative;
 }
 
-.animate {
+/* .animate {
     opacity: 0;
     visibility: hidden;
-}
+} */
 
 .heading-section h2 {
     font-size: 24px;
@@ -24,9 +24,6 @@
 
 .blog-entry a {
     background: url(../../images/healthy1.jfif);
-}
-
-.block-20 {
     overflow: hidden;
     background-size: cover;
     background-position: center center;
@@ -34,4 +31,8 @@
     height: 250px;
     position: relative;
     display: block;
+}
+
+.block-20 {
+    
 }
