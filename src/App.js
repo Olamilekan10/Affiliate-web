@@ -2,6 +2,7 @@ import './App.css';
 import { Carousel } from './components/CarouselSection/Carousel';
 import Intro from './components/Introduction/Intro';
 import NavbarComp from './components/Navbar/NavbarComp';
+import NewsBlogs from './components/News&Blogs/NewsBlogs';
 import OtherServices from './components/Otherservices/OtherServices';
 import Scroll from './components/ParallaxSection/Scroll';
 import Stories from './components/StoriesSection/Stories';
@@ -18,6 +19,7 @@ function App() {
         <OtherServices />
         <Scroll />
         <Stories />
+        <NewsBlogs />
 
     </div>
   );
