@@ -12,6 +12,9 @@ const Footer = () => {
                     
                 </div>
                 {/* second row */}
+                <div className="row"></div>
+                {/* third row */}
+                <div className="row mt-5"></div>
             </div>
         </footer>
     </>
