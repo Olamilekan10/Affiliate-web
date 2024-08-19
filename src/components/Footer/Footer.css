@@ -20,4 +20,13 @@ footer {
 
 .footer-section .subscribe-form .form-group {
     position: relative;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.footer-section .subscribe-form .form-group input {
+    background: transparent !important;
+    border: none !important;
+    outline: none;
+    color: rgba(0, 0, 0, 0.3);
 }
