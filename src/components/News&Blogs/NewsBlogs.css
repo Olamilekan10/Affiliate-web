@@ -21,3 +21,14 @@
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+.blog-entry a {
+    background: url(../../images/healthy1.jfif);
+}
+
+.block-20 {
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
