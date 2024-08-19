@@ -3,10 +3,10 @@
     position: relative;
 }
 
-/* .animate {
+.animate {
     opacity: 0;
     visibility: hidden;
-} */
+}
 
 .heading-section h2 {
     font-size: 24px;
