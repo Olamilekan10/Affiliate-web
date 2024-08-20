@@ -25,15 +25,21 @@ const Footer = () => {
                     <div className="col-md-4 col-lg-5">
                         <div className="row">
                             <div className="col-md-12 col-lg-8 mb-md-0 mb-4">
-                                
+                                <h2 className="footer-heading">
+                                    Health<span>care</span>
+                                </h2>
+                                <p>
+                                    A small river named Duden flows by their place and supplies it with the necessary regelialia.
+                                </p>
+                                <a href="/">read more</a>
                             </div>
                         </div>
                     </div>
                     <div className="col-md-8 col-lg-7">
                         <div className="row">
-                            {/* <div className="col-md-12 col-lg-8 mb-md-0 mb-4">
-
-                            </div> */}
+                            <div className="row">
+                                
+                            </div>
                         </div>
                     </div>
                 </div>

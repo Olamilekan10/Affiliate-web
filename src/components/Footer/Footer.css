@@ -44,3 +44,19 @@ footer {
     text-transform: uppercase;
     border-radius: 4px;
 }
+
+.footer-section .footer-heading {
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 20px;
+}
+
+.footer-section .footer-heading span {
+    color: #a7cd54;
+}
+
+.footer-section p {
+    color: rgba(225, 225, 255, 0.3);
+}
+
