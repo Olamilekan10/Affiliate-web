@@ -37,7 +37,9 @@ const NewsBlogs = () => {
                                     </div>
                                     <div></div>
                                 </div>
-                                <div className="heading"></div>
+                                <div className="heading">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore nisi odit quisquam itaque dicta
+                                </div>
                             </div>
                         </div>
                     </div>
