@@ -35,7 +35,11 @@ const NewsBlogs = () => {
                                     <div>
                                         <a href="#">Admin</a>
                                     </div>
-                                    <div></div>
+                                    <div>
+                                        <a href="#" className="meta-chat"> 
+                                            <i class="bi bi-chat-fill"></i> 3 
+                                        </a>
+                                    </div>
                                 </div>
                                 <div className="heading">
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore nisi odit quisquam itaque dicta
