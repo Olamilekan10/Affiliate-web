@@ -21,3 +21,57 @@ img {
     font-size: 18px;
     color: #000;
 }
+
+.other-service-section {
+    padding: 50px 0;
+  }
+  
+  .heading-section h2 {
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .service-icon {
+    width: 80px; /* Ensure icons have a consistent size */
+    height: 80px;
+  }
+  
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .other-service .row > div {
+    margin-bottom: 30px;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 576px) {
+    .heading-section h2 {
+      font-size: 24px;
+    }
+  
+    .other-service .row > div {
+      text-align: center;
+    }
+  
+    .service-icon {
+      width: 60px;
+      height: 60px;
+    }
+  
+    .icon-container {
+      margin-bottom: 10px;
+    }
+  
+    .other-service .row > div h3 {
+      font-size: 18px;
+    }
+  
+    .other-service .row > div p {
+      font-size: 14px;
+    }
+  }
+  

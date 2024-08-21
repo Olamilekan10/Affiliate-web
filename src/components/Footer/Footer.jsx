@@ -28,6 +28,7 @@ const Footer = () => {
             </div>
           </div>
 
+
           {/* second row */}
           <div className="row">
             <div className="col-md-4 col-lg-5">
