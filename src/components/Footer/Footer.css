@@ -95,3 +95,9 @@ ul {
     font-size: 14px;
 }
 
+.footer-section .copyright i {
+    display: inline-block;
+    font-size: inherit;
+    font: normal normal;
+    margin: 3px;
+}
