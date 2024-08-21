@@ -46,8 +46,11 @@
 
 .blog-entry .meta > div a {
     color: #999999;
+    text-decoration: none;
     font-weight: 400;
 }
+
+
 
 .blog-entry .text .meta-chat {
     color: #a3cb4c;
@@ -66,3 +69,7 @@
     font-weight: 400;
 }
 
+.blog-entry .text .heading a {
+    color: #000000;
+    text-decoration: none;
+}
