@@ -167,7 +167,7 @@ const Footer = () => {
             <div className="col-md-6 col-lg-8">
               <p className="copyright">
                 Copyright ©2024 All rights reserved | This template is made with
-                <i class="bi bi-heart-fill mt-3" aria-hidden="true"></i> by Absidycode
+                <span class="bi bi-heart-fill mt-3" aria-hidden="true"></span> by Absidycode
               </p>
             </div>
 
