@@ -25,7 +25,7 @@ const Footer = () => {
                     <div className="col-md-4 col-lg-5">
                         <div className="row">
                             <div className="col-md-12 col-lg-8 mb-md-0 mb-4">
-                                <h2 className="footer-heading">
+                                <h2 className="footer-heading fw-bold">
                                     Health<span>care</span>
                                 </h2>
                                 <p>
@@ -40,8 +40,17 @@ const Footer = () => {
                             <div className="row">
                                 <div className="col-md-3 mb-md-0 mb-4 border-left">
                                     <h2 className="footer-heading">Services</h2>
+
+                                    <ul className="list-unstyled">
+                                        <li>
+                                            <a href="/" className="py-1 d-b">Balance body</a>
+                                        </li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                    </ul>
                                 </div>
-                                <div className="col-md-3 mb-md-0 mb-4 border-left">
+                                {/* <div className="col-md-3 mb-md-0 mb-4 border-left">
                                     <h2 className="footer-heading"></h2>
                                 </div>
                                 <div className="col-md-3 mb-md-0 mb-4 border-left">
@@ -49,7 +58,7 @@ const Footer = () => {
                                 </div>
                                 <div className="col-md-3 mb-md-0 mb-4 border-left">
                                     <h2 className="footer-heading"></h2>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

@@ -47,7 +47,7 @@ footer {
 
 .footer-section .footer-heading {
     font-size: 18px;
-    font-weight: 600;
+    /* font-weight: 600; */
     color: rgba(255, 255, 255, 0.9);
     margin-bottom: 20px;
 }
