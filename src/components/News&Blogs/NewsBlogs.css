@@ -50,7 +50,9 @@
     font-weight: 400;
 }
 
-
+.blog-entry .meta > div a:hover {
+    color: #000;
+}
 
 .blog-entry .text .meta-chat {
     color: #a3cb4c;
@@ -72,4 +74,8 @@
 .blog-entry .text .heading a {
     color: #000000;
     text-decoration: none;
+}
+
+.blog-entry .text .heading a:hover {
+    color: #3198f8;
 }
