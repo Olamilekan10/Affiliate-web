@@ -60,3 +60,6 @@ footer {
     color: rgba(225, 225, 255, 0.3);
 }
 
+.footer-section .border-left {
+    border: none;
+}

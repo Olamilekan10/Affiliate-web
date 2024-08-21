@@ -38,10 +38,18 @@ const Footer = () => {
                     <div className="col-md-8 col-lg-7">
                         <div className="row">
                             <div className="row">
-                                <div className="col-md-3 mb-md-0 mb-4 border-left"></div>
-                                <div className="col-md-3 mb-md-0 mb-4 border-left"></div>
-                                <div className="col-md-3 mb-md-0 mb-4 border-left"></div>
-                                <div className="col-md-3 mb-md-0 mb-4 border-left"></div>
+                                <div className="col-md-3 mb-md-0 mb-4 border-left">
+                                    <h2 className="footer-heading">Services</h2>
+                                </div>
+                                <div className="col-md-3 mb-md-0 mb-4 border-left">
+                                    <h2 className="footer-heading"></h2>
+                                </div>
+                                <div className="col-md-3 mb-md-0 mb-4 border-left">
+                                    <h2 className="footer-heading"></h2>
+                                </div>
+                                <div className="col-md-3 mb-md-0 mb-4 border-left">
+                                    <h2 className="footer-heading"></h2>
+                                </div>
                             </div>
                         </div>
                     </div>
