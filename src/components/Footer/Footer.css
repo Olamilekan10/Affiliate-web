@@ -71,20 +71,21 @@ ul {
 
 .footer-section .list-unstyled {
     padding-left: 0;
-    list-style: none;
+    list-style-type: none;
 }
 
-.footer-section .list-unstyled li a {
+.footer-section .list-unstyled a {
     font-size: 14px;
     font-weight: 600;
     color: rgba(255, 255, 255, 0.4);
     text-decoration: none;
 }
 
-.footer-section .list-unstyled li a:hover {
+.footer-section .list-unstyled a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
 .footer-section .copyright {
-    
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 14px;
 }

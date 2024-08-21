@@ -1,6 +1,5 @@
 import React from 'react';
 import './Footer.css';
-// import footerImg from '../../images/bg_2.webp';
 
 const Footer = () => {
   return (
@@ -104,16 +103,16 @@ const Footer = () => {
 
                                     <ul className="list-unstyled">
                                         <li>
-                                            <a href="/" className="py-1 d-b">Facebook</a>
+                                            <a href="/" className="py-1 d-block">Facebook</a>
                                         </li>
                                         <li>
-                                            <a href="/" className="py-1 d-b">Twitter</a>
+                                            <a href="/" className="py-1 d-block">Twitter</a>
                                         </li>
                                         <li>
-                                            <a href="/" className="py-1 d-b">Instagram</a>
+                                            <a href="/" className="py-1 d-block">Instagram</a>
                                         </li>
                                         <li>
-                                            <a href="/" className="py-1 d-b">Google</a>
+                                            <a href="/" className="py-1 d-block">Google</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -123,12 +122,22 @@ const Footer = () => {
 
                 {/* third row */}
                 <div className="row mt-5">
+                    {/* first column */}
                     <div className="col-md-6 col-lg-8">
                         <p className="copyright">
-
+                        Copyright ©2024 All rights reserved | This template is made with 
+                        <i class="fa fa-heart" aria-hidden="true"></i>  by Absidycode
                         </p>
                     </div>
-                    <div className="col-md-6 col-lg-4"></div>
+
+                    {/* second column */}
+                    <div className="col-md-6 col-lg-4 text-md-right">
+                        <p className="mb-0 list-unstyled">
+                            <a href="#" className="mr-md-3">Terms</a>
+                            <a href="#" className="mr-md-3">Privacy</a>
+                            <a href="#" className="mr-md-3">Compliances</a>
+                        </p>
+                    </div>
                 </div>
             </div>
         </footer>
