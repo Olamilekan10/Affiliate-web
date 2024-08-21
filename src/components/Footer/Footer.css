@@ -63,3 +63,18 @@ footer {
 .footer-section .border-left {
     border: none;
 }
+
+ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.footer-section .list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer-section .list-unstyled a {
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+}
