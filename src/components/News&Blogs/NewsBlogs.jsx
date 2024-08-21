@@ -37,7 +37,7 @@ const NewsBlogs = () => {
                                     </div>
                                     <div>
                                         <a href="#" className="meta-chat"> 
-                                            <i class="bi bi-chat-fill"></i> 3 
+                                            <span class="bi bi-chat-fill"></span> 3 
                                         </a>
                                     </div>
                                 </div>
