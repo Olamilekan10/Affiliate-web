@@ -52,3 +52,10 @@
 .blog-entry .text .meta-chat {
     color: #a3cb4c;
 }
+
+.bi {
+    display: inline-block;
+    margin-left: 10px;
+    font-size: inherit;
+    font: normal normal;
+}
