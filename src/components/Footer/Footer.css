@@ -52,6 +52,11 @@ footer {
     margin-bottom: 20px;
 }
 
+
+.footer-section .fw-bold {
+    font-weight: 900;
+}
+
 .footer-section .footer-heading span {
     color: #a7cd54;
 }
