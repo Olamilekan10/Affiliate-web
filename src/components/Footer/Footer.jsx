@@ -20,6 +20,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
+
                 {/* second row */}
                 <div className="row">
                     <div className="col-md-4 col-lg-5">
@@ -37,34 +38,98 @@ const Footer = () => {
                     </div>
                     <div className="col-md-8 col-lg-7">
                         <div className="row">
-                            <div className="row">
+                                {/* first list display */}
                                 <div className="col-md-3 mb-md-0 mb-4 border-left">
                                     <h2 className="footer-heading">Services</h2>
 
                                     <ul className="list-unstyled">
                                         <li>
-                                            <a href="/" className="py-1 d-b">Balance body</a>
+                                            <a href="/" className="py-1 d-block">Balance body</a>
                                         </li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Physical Activity</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Fitness Program</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Healthy Food</a>
+                                        </li>
                                     </ul>
                                 </div>
-                                {/* <div className="col-md-3 mb-md-0 mb-4 border-left">
-                                    <h2 className="footer-heading"></h2>
-                                </div>
+
+                                {/* second list display */}
                                 <div className="col-md-3 mb-md-0 mb-4 border-left">
-                                    <h2 className="footer-heading"></h2>
+                                    <h2 className="footer-heading">About</h2>
+
+                                    <ul className="list-unstyled">
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Staff</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Team</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Career</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Blog</a>
+                                        </li>
+                                    </ul>
                                 </div>
+
+                                {/* third list display */}
                                 <div className="col-md-3 mb-md-0 mb-4 border-left">
-                                    <h2 className="footer-heading"></h2>
-                                </div> */}
-                            </div>
+                                    <h2 className="footer-heading">Resources</h2>
+
+                                    <ul className="list-unstyled">
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Security</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Global</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Charts</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-block">Privacy</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                {/* fourth list display */}
+                                <div className="col-md-3 mb-md-0 mb-4 border-left">
+                                    <h2 className="footer-heading">Social</h2>
+
+                                    <ul className="list-unstyled">
+                                        <li>
+                                            <a href="/" className="py-1 d-b">Facebook</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-b">Twitter</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-b">Instagram</a>
+                                        </li>
+                                        <li>
+                                            <a href="/" className="py-1 d-b">Google</a>
+                                        </li>
+                                    </ul>
+                                </div>
                         </div>
                     </div>
                 </div>
+
                 {/* third row */}
-                <div className="row mt-5"></div>
+                <div className="row mt-5">
+                    <div className="col-md-6 col-lg-8">
+                        <p className="copyright">
+
+                        </p>
+                    </div>
+                    <div className="col-md-6 col-lg-4"></div>
+                </div>
             </div>
         </footer>
     </>

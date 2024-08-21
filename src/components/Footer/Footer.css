@@ -47,7 +47,7 @@ footer {
 
 .footer-section .footer-heading {
     font-size: 18px;
-    /* font-weight: 600; */
+    font-weight: 400;
     color: rgba(255, 255, 255, 0.9);
     margin-bottom: 20px;
 }
@@ -61,7 +61,7 @@ footer {
 }
 
 .footer-section .border-left {
-    border: none;
+    border-color: rgba(225, 225, 255, 0.05) !important;
 }
 
 ul {
@@ -74,7 +74,17 @@ ul {
     list-style: none;
 }
 
-.footer-section .list-unstyled a {
-    color: rgba(255, 255, 255, 0.9);
+.footer-section .list-unstyled li a {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.4);
     text-decoration: none;
+}
+
+.footer-section .list-unstyled li a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+.footer-section .copyright {
+    
 }
