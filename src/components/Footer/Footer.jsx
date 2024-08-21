@@ -20,7 +20,7 @@ const Footer = () => {
                     <input
                       type="submit"
                       value="Subscribe"
-                      className="form-control submit px-3"
+                      className="submit px-3"
                     />
                   </div>
                 </form>
