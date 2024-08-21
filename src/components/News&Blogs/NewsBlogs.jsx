@@ -42,9 +42,9 @@ const NewsBlogs = () => {
                                         </a>
                                     </div>
                                 </div>
-                                <div className="heading">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore nisi odit quisquam itaque dicta
-                                </div>
+                                <h3 className="heading">
+                                    <a href="#">Even the all-powerful Pointing has no control about the blind texts</a>
+                                </h3>
                             </div>
                         </div>
                     </div>
