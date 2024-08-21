@@ -27,8 +27,17 @@ const NewsBlogs = () => {
                                 backgroundImage : `url(${newsImg1})`,
                             }}
                             ></a>
-                            <div className="text-muted">
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia impedit ipsum dicta necessitatibus nostrum, consectetur itaque ullam sunt minima, id non vero amet? Illum id blanditiis exercitationem sed animi quisquam!
+                            <div className="text mt-3">
+                                <div className="meta mb-2">
+                                    <div>
+                                        <a href="#">August 21, 2024</a>
+                                    </div>
+                                    <div>
+                                        <a href="#">Admin</a>
+                                    </div>
+                                    <div></div>
+                                </div>
+                                <div className="heading"></div>
                             </div>
                         </div>
                     </div>
