@@ -15,7 +15,7 @@ const Footer = () => {
                     <input
                       type="text"
                       className="form-control rounded-left"
-                      placeholder="Enter email address"
+                      placeholder="Enter your Email"
                     />
                     <input
                       type="submit"
